@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "126475330833",
+    "project_id": "ijob-clone-app-317fb",
+    "storage_bucket": "ijob-clone-app-317fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126475330833:android:e55e9687c895518b2418b0",
+        "android_client_info": {
+          "package_name": "Kidocustom.login_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNHwT0KLJlx43Ftxyeso0ZQy2ZDXj4X40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
